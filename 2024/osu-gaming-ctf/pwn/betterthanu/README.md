@@ -1,4 +1,4 @@
-# osu!gaming CTF > pwn > bettherthanu
+# osu!gaming CTF > pwn > betterthanu
 
 The binary comprises **two** user inputs, one prompting the user to input their earned `pp` and the other asking for any **"last words"**. Both inputs are stored in the character array `char buf[16]`. Subsequently, the binary calculates the value of `pp` as the user-provided value plus 1.
 
