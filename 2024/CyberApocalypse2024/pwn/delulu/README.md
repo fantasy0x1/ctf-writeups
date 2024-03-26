@@ -105,8 +105,8 @@ To confirm this, we can change the type of value we want to return in the format
 
 Now we can see that the value of offset `7` in string, is the value of the `PIN` variable, knowing the offset to the variable address, we need to overwrite this value in the stack
 
->Some useful resources:
-https://vickieli.dev/binary%20exploitation/format-string-vulnerabilities/#overwriting-memory-at-any-location
+>Some useful resources: \
+https://vickieli.dev/binary%20exploitation/format-string-vulnerabilities/#overwriting-memory-at-any-location \
 https://axcheron.github.io/exploit-101-format-strings/#writing-to-the-stack
 
 Since we only need to change the bytes of the variable (1337**babe** > 1337**beef**), the process becomes faster and easier, we can do it in two ways:
