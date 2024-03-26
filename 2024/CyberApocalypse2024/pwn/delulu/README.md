@@ -163,5 +163,7 @@ The result is
 [+] Starting local process './delulu_patched': pid 127360
 [+] Receiving all data: Done (47.83KB)
 [*] Process './delulu_patched' stopped with exit code 0 (pid 127360)
-[*] Flag: HTB{f4k3_fl4g_4_t35t1ng}
+[*] Flag: HTB{m45t3r_0f_d3c3pt10n}
 ```
+
+> Flag: HTB{m45t3r_0f_d3c3pt10n}
